@@ -1,0 +1,16 @@
+# sw custom version start, 0: disable 1:enable
+sw_custom_enable=1
+# millisecond
+linkloss_threshold=5000
+scan_duration=30
+# 0:default 2.4g40M, 1:enable, change to 20M
+enable_2g4_20m=0
+mcc_ratio=2
+scan_abort_enable=0
+scan_interval_thr=22
+active_scan_enable=1
+#coexist_param
+coex_lead_time=4
+coex_rssi_step1=0
+coex_rssi_step2=0
+coex_sink_mode=0

@@ -1,0 +1,6 @@
+#define AML_VERS_REV "a77d39ba6"
+#define AML_VERS_MOD "v1.3.1-r3.2_2026-05.21-w2l driver:a77d39ba+702832 - fw:)"
+#define AML_VERS_BANNER "v1.3.1-r3.2_2026-05.21-w2l driver:a77d39ba+702832 - fw:)"
+#define AML_DRIVER_COMPILE_INFO "driver compile date: W2l.2026.W20.04,driver hash: a77d39ba651b6aba2ee52c86351eba193a682d5d"
+#define FIRMWARE_INFO "fw compile date: 2026-05-21 18:46:15,fw hash: a77d39ba651b6aba2ee52c86351eba193a682d5d,fw size: 1046097"
+#define COMMON_INFO "common: last commit: 2026/May/1 10:38:40  hash: 917eac710e41ce77be986ea3821d1f82dead2b24"
